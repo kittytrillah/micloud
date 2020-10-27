@@ -20,7 +20,7 @@ Click==7.0
 cmake==3.13.3
 colorama==0.4.1
 crypto==1.4.1
-cryptography==2.8
+cryptography==3.2
 cycler==0.10.0
 dbconfig==0.3.2
 decorator==4.0.10
