@@ -70,7 +70,7 @@ protobuf==3.10.0
 psycopg2==2.8.2
 psycopg2-binary==2.8.2
 public==2019.3.22
-py==1.8.0
+py==1.10.0
 pyasn1==0.4.7
 pycparser==2.19
 pycryptodome==3.9.0
