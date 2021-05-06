@@ -29,7 +29,7 @@ Django==2.2.6
 django-cors-headers==0.12
 djangorestframework==2.3.14
 Flask==0.12
-Flask-Cors==3.0.2
+Flask-Cors==3.0.9
 Flask-DBConfig==0.3.12
 Flask-MySQL==1.4.0
 flask-peewee==3.0.3
